@@ -30,6 +30,19 @@ Run the simulation.
 Enter numbers and operators using the virtual keypad.
 View the calculated result on the LCD.
 
+## Example:
+
+Proteus_Circuit.png
+📸 Simulation Output
+(<img width="1920" height="1020" alt="calci1" src="https://github.com/user-attachments/assets/51d0e4e4-eeb8-4705-8493-0b6f55aefca6" />
+)
+
+Example:
+
+Calculator_Output.png
+(<img width="1920" height="1020" alt="calci2" src="https://github.com/user-attachments/assets/c324daa4-09e2-4bc4-8970-664097c95a18" />
+)
+
 ## 📊 Supported Operations
 Addition (+)
 Subtraction (−)
@@ -47,25 +60,8 @@ Arduino IDE,
 Proteus Design Suite,
 🖼️ Circuit Diagram
 
-## Example:
 
-Proteus_Circuit.png
-📸 Simulation Output
-(<img width="1920" height="1020" alt="calci1" src="https://github.com/user-attachments/assets/51d0e4e4-eeb8-4705-8493-0b6f55aefca6" />
-)
-
-Example:
-
-Calculator_Output.png
-(<img width="1920" height="1020" alt="calci2" src="https://github.com/user-attachments/assets/c324daa4-09e2-4bc4-8970-664097c95a18" />
-)
-🎥 Demo Video
-(https://drive.google.com/file/d/1XTFKObaapR2xuVRR-LXNK2o-thIG32qk/view?usp=drivesdk)
-Add your Proteus simulation video or GIF here.
 
 👩‍💻 Developed By
 sadhana
 
-Sadhana
-
-📂 Suggested GitHub Repository Name
